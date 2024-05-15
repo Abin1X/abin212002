@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abin1X
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning C#, Unity
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me : abin021.thomas@gmail.com
 
 <!---
